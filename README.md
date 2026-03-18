@@ -44,7 +44,7 @@
 Moscow 🇷🇺 ←→ Faisalabad, Pakistan 🇵🇰
 
 🎓 **Education**
-**MA** @ Higher School of Economics (HSE) — Moscow *(2024–Present)*
+**MA** Higher School of Economics (HSE) — Moscow *(2024–Present)*
 
 🚀 **Mission**
 Bridging linguistic theory and automated text analytics to understand syntactic attrition and language variation.
@@ -68,7 +68,7 @@ Writing Python scripts to segment language that took neurologists decades to des
 
 🌍 **Languages**
 
-Urdu — Native ✨ &nbsp;|&nbsp; English — C2 🔥 &nbsp;|&nbsp; Russian — A2 📖
+Urdu — Native &nbsp;| ✨ Punjabi — Native &nbsp;|&nbsp; English — C2 🔥 &nbsp;|&nbsp; Russian — A2 📖
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ Urdu — Native ✨ &nbsp;|&nbsp; English — C2 🔥 &nbsp;|&nbsp; Russian — 
      FLAGSHIP PROJECTS
 ══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Flagship Projects & Research
+## 🚀 Research Projects 
 
 <table>
 <tr>
@@ -158,10 +158,9 @@ Pragmatic analysis of personal deixis in Jane Austen's *Pride and Prejudice*, le
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TECH STACK
+     TECHNICAL SKILLS
 ══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
 
 **Languages & Core**
 
