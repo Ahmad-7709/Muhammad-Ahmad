@@ -1,7 +1,11 @@
-<div align="center">
-  <img src="profile.png" width="160" style="border-radius: 50%; border: 3px solid #2ea44f;">
-  <h1>Muhammad Ahmad</h1>
-  <p><b>Computational Linguist · Morphosyntax Researcher · Corpus Linguistics</b></p>
+# Muhammad Ahmad
+**Computational Linguist · Morphosyntax Researcher · Corpus Linguistics**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-7709)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogarahmad508@gmail.com)
+
+---
   
   <p>
     <a href="https://github.com/Ahmad-7709"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
