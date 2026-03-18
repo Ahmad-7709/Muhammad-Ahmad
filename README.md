@@ -60,5 +60,5 @@ I am an applied linguist currently completing my MA in Applied Linguistics and T
 
 ---
 <div align="center">
-  <i>⚡ Fun Fact: Outside of academia, I am deeply passionate about exploring and promoting the rich cultural heritage of Pashtun and Balochi traditions.</i>
+  <i>⚡ Fun Fact: Outside of academia, I am deeply passionate about exploring and promoting the rich cultural heritage of Pakistani and specifically Pakistani traditions.</i>
 </div>
