@@ -1,4 +1,3 @@
-# Muhammad Ahmad
 MA Applied Linguistics · Morphosyntax Researcher · Corpus Linguistics
 
 [GitHub](link) | [LinkedIn](link) | [Email](mailto:dogarahmad508@gmail.com)
