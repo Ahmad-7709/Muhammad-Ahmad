@@ -100,17 +100,6 @@ Developing Python scripts for automated **T-unit segmentation** to measure subor
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Grammatical Deficits in Broca's Aphasia
-**Morphosyntactic Analysis**
-
-Quantitative analysis of syntactic complexity and morphosyntactic error distribution in clinical transcripts of English-speaking patients with Broca's aphasia.
-
-![CLAN](https://img.shields.io/badge/CLAN-8B5CF6?style=flat-square)
-![AntConc](https://img.shields.io/badge/AntConc-F59E0B?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-
 </td>
 </tr>
 <tr>
