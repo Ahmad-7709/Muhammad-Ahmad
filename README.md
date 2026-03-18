@@ -1,5 +1,8 @@
 <div align="center">
   <h1>Muhammad Ahmad</h1>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Computational+Linguist;Morphosyntax+Researcher;Corpus+Linguistics+Expert" alt="Typing SVG" />
+</a>
   <p><b>Computational Linguist · Morphosyntax Researcher · Corpus Linguistics</b></p>
   <br>
   <p>
