@@ -1,43 +1,25 @@
-# Research Focus
+# README.md
 
-## Central Question
-How can we leverage innovative methodologies to address complex challenges in the field of [Your Field]?
+## Research Focus
+This section outlines my research focus, emphasizing the key areas of investigation.
 
-# Thesis Research
+## Thesis Research
+### Theoretical Framework
+A detailed explanation of the theoretical framework that supports my research.
+### Clinical Significance
+Discussion on the clinical significance of my research findings and their implications for practice.
 
-## Theoretical Framework
-This research operates within the [insert your theoretical framework], exploring the intersection of [key concepts].
+## Publications & Manuscripts
+| Title | Journal | Year |
+|-------|---------|------|
+| Publication 1 | Journal Name | Year |
+| Publication 2 | Journal Name | Year |
 
-## Clinical Significance
-Our findings aim to contribute to [specific population or clinical area], addressing the urgent need for [clinical significance].
+## Research Interests & Questions
+Outline of my research interests along with specific questions I aim to address in my work.
 
-## Preliminary Findings
-| Findings       | Description                      |
-|----------------|---------------------------------|
-| Finding 1      | Brief description of finding 1  |
-| Finding 2      | Brief description of finding 2  |
+## Research Methodology & Technical Skills
+Description of the methodologies employed in my research and the technical skills I possess.
 
-# Publications
-1. **Your First Publication Title**, [Journal Name], [Year].
-   - Brief overview of the contribution.
-2. **Your Second Publication Title**, [Journal Name], [Year].
-   - Brief overview of the contribution.
-
-# Research Interests & Questions
-- [Research interest 1]
-- [Research interest 2]
-- [Research interest 3]
-
-# Research Methodology & Technical Skills
-- [Methodology 1]
-- [Methodology 2]
-- [Technical Skill 1]
-- [Technical Skill 2]
-
-# PhD Applications & Collaboration
-This section outlines the potential for collaboration with [specific institutions or labs], geared towards enhancing [specific goals].
-
-
-![Research Focus Badge](https://img.shields.io/badge/Research%20Focus-007acc?style=for-the-badge&logo=appveyor)
-![Thesis Badge](https://img.shields.io/badge/Thesis%20Research-2ea44f?style=for-the-badge&logo=appveyor)
-![PhD Interest Badge](https://img.shields.io/badge/PhD%20Interests-1a73e8?style=for-the-badge&logo=appveyor)
+## PhD Applications & Collaboration
+Details regarding my PhD applications, the institutions I am applying to, and potential collaborations.
