@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.jpg" width="160" style="border-radius: 50%; border: 3px solid #2ea44f;">
+  <img src="profile.png" width="160" style="border-radius: 50%; border: 3px solid #2ea44f;">
   <h1>Muhammad Ahmad</h1>
   <p><b>Computational Linguist · Morphosyntax Researcher · Corpus Linguistics</b></p>
   
