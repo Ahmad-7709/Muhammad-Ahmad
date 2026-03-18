@@ -99,19 +99,6 @@ Speech transcripts from the **DementiaBank Cookie Theft corpus** are being analy
 
 This goes substantially beyond the global fluency measures that dominate existing clinical assessments.
 
-**The Adaptive Strategy Hypothesis**
-
-Preliminary patterns suggest that rather than random grammatical failure, speakers **strategically reduce** cognitive load:
-
-| Strategy | Description |
-|---|---|
-| ↓ Subordination | Reduction in embedded clause depth |
-| ↓ Dependency Distance | Shortening of grammatical span across utterances |
-| ↓ Auxiliary Drop | Omission of costly auxiliary constructions |
-| ✓ Semantic Preservation | Core content maintained despite structural simplification |
-
-This process is expected to be most visible in the **MCI group**, where compensatory strategies are still largely functioning, becoming less consistent as dementia advances.
-
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-222222?style=flat-square)
 ![Corpus](https://img.shields.io/badge/Corpus-DementiaBank%20Cookie%20Theft-1a1a1a?style=flat-square)
 ![Keywords](https://img.shields.io/badge/Keywords-Psycholinguistics%20·%20T--Syntax%20·%20Cognitive%20Load%20·%20Corpus%20Linguistics-1c1c1c?style=flat-square)
