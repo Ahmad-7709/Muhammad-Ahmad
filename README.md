@@ -152,7 +152,6 @@ Pragmatic analysis of personal deixis in Jane Austen's *Pride and Prejudice*, tr
 |------|-------|-------|--------|
 | 2026 | **Assessing the multilingual corpus extractor for Urdu environmental corpora** | *Journal of Advanced Corpus-Oriented Research* | ![](https://img.shields.io/badge/-Submitted-333333?style=flat-square) |
 | 2025 | **Use of Interactional Metadiscourse Markers in Pakistani Newspaper Editorials** | *Studies in Linguistics and Language Education* | ![](https://img.shields.io/badge/-Under%20Review-222222?style=flat-square) |
-| 2025 | **A Pragmatic Study of Personal Deixis in Pride and Prejudice** | *Studies in Linguistics and Language Education* | ![](https://img.shields.io/badge/-Under%20Review-222222?style=flat-square) |
 
 ---
 
