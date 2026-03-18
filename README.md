@@ -1,68 +1,109 @@
+<style>
+  body {
+    background-color: #fcfcfc; /* Soft, clean background color */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #333333;
+    line-height: 1.6;
+  }
+  h1, h2, h3 {
+    border-bottom: none; /* Removes standard github underlines */
+    margin-top: 2em;
+    font-weight: 600;
+  }
+  a {
+    color: #0366d6;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .header-links a {
+    margin: 0 10px;
+    font-size: 1.1em;
+  }
+  .project-card {
+    background-color: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+</style>
+
 <div align="center">
-  <h1>Muhammad Ahmad</h1>
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Computational+Linguist;Morphosyntax+Researcher;Corpus+Linguistics+Expert" alt="Typing SVG" />
-</a>
-  <p><b>Computational Linguist · Morphosyntax Researcher · Corpus Linguistics</b></p>
   <br>
-  <p>
-    <a href="https://github.com/Ahmad-7709">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-ahmad-2345b1230/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dogarahmad508@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <h1>🧠 Muhammad Ahmad</h1>
+  <p style="color: #586069; font-size: 1.2em;">
+    Computational Linguist · Morphosyntax Researcher · Clinical Linguistics
+  </p>
+  
+  <p class="header-links">
+    <a href="https://github.com/Ahmad-7709">GitHub</a> &nbsp;·&nbsp; 
+    <a href="https://www.linkedin.com/in/muhammad-ahmad-2345b1230/">LinkedIn</a> &nbsp;·&nbsp; 
+    <a href="mailto:dogarahmad508@gmail.com">Email</a>
   </p>
 </div>
 
----
+<br><br>
 
-## 🔬 About Me
+## About
 
-I am an applied linguist currently completing my MA in Applied Linguistics and Text Analytics at the Higher School of Economics. My work bridges linguistic theory with automated text analytics, utilizing computational methods to understand syntactic attrition and language variation. I am actively preparing for 2026 Ph.D. program intakes to further my research in corpus linguistics and morphosyntax.
+📍 **Location**
+Moscow, Russia  ←→  Faisalabad, Pakistan 🇵🇰
 
-📍 **Location:** Moscow, Russia ←→ Faisalabad, Pakistan 🇵🇰  
-🎯 **Objective:** Seeking Ph.D. opportunities in linguistics (2026 intake).  
-🌍 **Research Interests:** Corpus Linguistics, Morphosyntax, Text Analytics, World Englishes (specifically Pakistani English), and Clinical Linguistics.  
+🎓 **Education**
+**MA** @ Higher School of Economics (HSE) — Moscow (2024–Current)
 
----
+🚀 **Mission**
+Bridging linguistic theory and automated text analytics to understand syntactic attrition and language variation.
 
-## 🚀 Current Research & Projects
+🔬 **Research Areas**
+Corpus Linguistics · Morphosyntax · Text Analytics · Clinical Linguistics · World Englishes
 
-**[🧠 Investigating T-Syntax in Dementia and Mild Cognitive Impairment]** *MA Thesis Project (HSE)* * Developing Python scripts for automated T-unit segmentation to measure subordination indices and clause length.
-* Applying mixed-effects regression modeling to track diachronic linguistic variation and syntactic attrition.
+<br>
 
-**[🗣️ Grammatical deficits in Broca’s aphasia]** *A morphosyntactic analysis of English-speaking patients.* * Quantitative analysis of syntactic complexity and morphosyntactic error distribution in clinical transcripts.
+## Flagship Projects & Research
 
----
+<div class="project-card">
+  <a href="#"><b>🧠 T-Syntax in Dementia and Mild Cognitive Impairment</b></a><br>
+  <i>MA Thesis Project (HSE)</i> — Developing Python scripts for automated T-unit segmentation to measure subordination indices and clause length. Applying mixed-effects regression modeling to track diachronic linguistic variation.
+</div>
 
-## 📚 Publications & Manuscripts
+<div class="project-card">
+  <a href="#"><b>🗣️ Grammatical Deficits in Broca’s Aphasia</b></a><br>
+  <i>Morphosyntactic Analysis</i> — Quantitative analysis of syntactic complexity and morphosyntactic error distribution in clinical transcripts of English-speaking patients.
+</div>
 
-* **Assessing the multilingual corpus extractor for Urdu environmental corpora: Overcoming data scarcity.** *Journal of Advanced Corpus-Oriented Research*. (Submitted, 2026).
-* **Use of Interactional Metadiscourse Markers in Pakistani Newspaper Editorials.** *Studies in Linguistics and Language Education*. (Under Review, 2025).
-* **A Pragmatic Study of Personal Deixis in Pride and Prejudice: A Corpus-Based Analysis.** *Studies in Linguistics and Language Education*. (Under Review, 2025).
+<br>
 
----
+## Publications & Manuscripts
 
-## 💼 Research Experience
+* **Assessing the multilingual corpus extractor for Urdu environmental corpora**
+  <i>Journal of Advanced Corpus-Oriented Research</i> · (Submitted, 2026) · Overcoming data scarcity.
+* **Use of Interactional Metadiscourse Markers in Pakistani Newspaper Editorials**
+  <i>Studies in Linguistics and Language Education</i> · (Under Review, 2025).
+* **A Pragmatic Study of Personal Deixis in Pride and Prejudice: A Corpus-Based Analysis**
+  <i>Studies in Linguistics and Language Education</i> · (Under Review, 2025).
 
-* **Research Intern (Remote) | Corpus Research Center, Minhaj University** *(03/2026 – 04/2026)* Conducting specialized linguistic research and corpus analysis, integrating computational linguistics with academic research frameworks.
-* **Research Intern | Language and Brain Centre, HSE Nizhny Novgorod** *(08/2025 – 10/2025)* Collaborated on a meta-analysis of verbal fluency studies. Utilized Python (pandas, matplotlib) to standardize linguistic datasets and conducted text mining to extract semantic density themes.
+<br>
 
----
+## Tech Stack
 
-## 💻 Tech Stack & Methodologies
+🐍 Python &nbsp; 📊 SPSS &nbsp; 🔤 NLTK &nbsp; 🔤 spaCy &nbsp; 📈 pandas &nbsp; 🔢 NumPy &nbsp; 🐙 Git &nbsp; 📚 CLAN &nbsp; 🔎 AntConc
 
-* **Programming & Tools:** 🐍 Python (NLTK, spaCy, pandas, NumPy, regex) · 🐙 Git/GitHub  
-* **Corpus Tools:** CLAN, AntConc, Sketch Engine, COCA, BNC  
-* **Statistical Analysis:** Mixed-Effects Regression (Linear/Logistic) · Hypothesis Testing · SPSS · scipy · statsmodels  
+<br>
 
----
+## Open To
 
+* Seeking PhD position in NLP / Linguistics (2026 Intake) &nbsp;·&nbsp;
+* Open to research collaboration on clinical linguistics and syntactic attrition &nbsp;·&nbsp;
+
+<br><br>
 <div align="center">
-  <br>
-  <i>⚡ Fun Fact: Outside of academia, I am deeply passionate about exploring and promoting the rich cultural heritage and traditions of Pakistan.</i>
+  <p style="color: #586069;">
+    "Language contains multitudes. Let's analyze it." — Muhammad Ahmad<br>
+    © 2026 Muhammad Ahmad
+  </p>
 </div>
