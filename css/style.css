@@ -244,6 +244,83 @@ body {
     object-fit: cover;
 }
 
+/* ===== Graduation Section ===== */
+.graduation {
+    padding: 80px 0;
+    background: var(--bg-white);
+}
+
+.graduation-content {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+
+.graduation-image {
+    flex: 1;
+    min-width: 300px;
+    text-align: center;
+}
+
+.graduation-image img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: var(--shadow-lg);
+    transition: transform 0.3s ease;
+}
+
+.graduation-image img:hover {
+    transform: scale(1.02);
+}
+
+.graduation-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.graduation-text h3 {
+    font-family: 'Crimson Pro', serif;
+    font-size: 2em;
+    color: var(--text-dark);
+    margin-bottom: 20px;
+}
+
+.graduation-text p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: var(--text-light);
+    margin-bottom: 30px;
+}
+
+.graduation-details {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.grad-detail-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--bg-light);
+    padding: 12px 20px;
+    border-radius: 10px;
+    box-shadow: var(--shadow-sm);
+}
+
+.grad-detail-item i {
+    font-size: 1.3em;
+    color: var(--primary-color);
+}
+
+.grad-detail-item span {
+    font-size: 0.95em;
+    color: var(--text-light);
+    font-weight: 500;
+}
+
 /* ===== Section Styles ===== */
 section {
     padding: 5rem 0;
@@ -357,6 +434,55 @@ section:nth-child(even) {
     font-size: 0.9rem;
 }
 
+/* ===== Honors Section ===== */
+.honors-section {
+    margin-top: 3rem;
+}
+
+.honors-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.honors-section h3 i {
+    color: #f59e0b;
+}
+
+.honors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.honor-item {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.honor-item i {
+    font-size: 1.5rem;
+    color: #f59e0b;
+    margin-top: 0.2rem;
+}
+
+.honor-item strong {
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.honor-item p {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
 /* ===== Research Section ===== */
 .research-grid {
     display: grid;
@@ -457,9 +583,20 @@ section:nth-child(even) {
     margin-bottom: 0.5rem;
 }
 
+.pub-authors {
+    color: var(--text-light);
+    margin-bottom: 0.3rem;
+}
+
 .pub-venue {
     color: var(--text-light);
     margin-bottom: 0.5rem;
+}
+
+.pub-details {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
 }
 
 .pub-status {
@@ -549,6 +686,10 @@ section:nth-child(even) {
     margin-bottom: 0.5rem;
 }
 
+.course-desc:last-child {
+    padding-bottom: 1.5rem;
+}
+
 /* ===== Contact ===== */
 .contact-wrapper {
     display: grid;
@@ -630,6 +771,16 @@ section:nth-child(even) {
     align-items: center;
 }
 
+.footer-left h3 {
+    font-family: 'Crimson Pro', serif;
+    margin-bottom: 0.3rem;
+}
+
+.footer-left p {
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
+
 .footer-social {
     display: flex;
     gap: 0.8rem;
@@ -643,6 +794,11 @@ section:nth-child(even) {
 
 .footer-social a:hover {
     color: var(--primary-color);
+}
+
+.footer-right p {
+    color: var(--text-light);
+    font-size: 0.9rem;
 }
 
 /* ===== Back to Top ===== */
@@ -667,7 +823,69 @@ section:nth-child(even) {
     background: var(--secondary-color);
 }
 
+/* ===== Scroll Indicator ===== */
+.scroll-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.scroll-indicator span {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--primary-color);
+    opacity: 0.3;
+    animation: scroll 2s infinite;
+}
+
+.scroll-indicator span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.scroll-indicator span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes scroll {
+    0%, 100% {
+        opacity: 0.3;
+        transform: translateY(0);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(5px);
+    }
+}
+
+/* ===== Thesis Note ===== */
+.thesis-note {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-top: 0.3rem;
+}
+
 /* ===== Responsive ===== */
+@media (max-width: 1024px) {
+    .graduation-content {
+        flex-direction: column;
+    }
+    
+    .graduation-image {
+        order: -1;
+    }
+    
+    .graduation-details {
+        flex-direction: column;
+    }
+}
+
 @media (max-width: 768px) {
     .hero-content {
         grid-template-columns: 1fr;
@@ -712,5 +930,40 @@ section:nth-child(even) {
         flex-direction: column;
         text-align: center;
         gap: 1rem;
+    }
+    
+    .publication-item {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .graduation-content {
+        gap: 30px;
+    }
+    
+    .graduation-text h3 {
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 2.5rem;
+    }
+    
+    .section-title {
+        font-size: 2rem;
+    }
+    
+    .about-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .honors-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .container {
+        padding: 0 1rem;
     }
 }
