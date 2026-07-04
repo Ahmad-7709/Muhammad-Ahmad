@@ -221,7 +221,7 @@ body {
     transform: translateY(-3px);
 }
 
-/* Hero Image - FIXED */
+/* Hero Image */
 .hero-image {
     display: flex;
     justify-content: center;
@@ -296,7 +296,7 @@ body {
 
 .graduation-details {
     display: flex;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
 }
 
@@ -599,15 +599,19 @@ section:nth-child(even) {
     margin-bottom: 0.8rem;
 }
 
+/* Published status - Green badge */
 .pub-status {
     display: inline-block;
-    background: rgba(16, 185, 129, 0.1);
-    color: #10b981;
     padding: 0.3rem 1rem;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 600;
     margin-bottom: 0.8rem;
+}
+
+.pub-status.published {
+    background: rgba(16, 185, 129, 0.1);
+    color: #10b981;
 }
 
 .pub-links {
@@ -728,6 +732,12 @@ section:nth-child(even) {
 .info-item p, .info-item a {
     color: var(--text-light);
     font-size: 0.95rem;
+    text-decoration: none;
+    line-height: 1.8;
+}
+
+.info-item a:hover {
+    color: var(--primary-color);
 }
 
 .contact-form {
@@ -943,6 +953,10 @@ section:nth-child(even) {
     
     .graduation-text h3 {
         font-size: 1.5em;
+    }
+    
+    .graduation-details {
+        flex-direction: column;
     }
 }
 
